@@ -10,7 +10,7 @@ body,html {
     letter-spacing: .03em;
     margin: 0;
     overflow: hidden;
-    background-color: #1a1a1d;
+    background-color: #fff;
     -webkit-transition: background .5s;
     -moz-transition: background .5s;
     transition: background .5s;
@@ -255,7 +255,7 @@ body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(1) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(1) .shard {
     -webkit-clip-path: polygon(6.838% 29.324%,13.337% 80.752%,4.838% 68.324%);
-    background-color: #F6075A;
+    background-color: rgba(27, 26, 27, 0.45);
     -webkit-transition: .8s .2s;
     -moz-transition: .8s .2s;
     transition: .8s .2s
@@ -263,138 +263,139 @@ body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(2) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(2) .shard {
     -webkit-clip-path: polygon(6.838% 29.324%,26.637% 37.181%,7.538% 35.895%);
-    background-color: #F6075A;
+    background-color: rgba(27, 26, 27, 0.85);
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(3) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(3) .shard {
     -webkit-clip-path: polygon(6.838% 29.324%,27.75% 30.5%,26.9% 37.4%);
-    background-color: #970741;
+    background-color: rgba(27, 26, 27, 0.65)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(4) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(5) .shard {
     -webkit-clip-path: polygon(13.4% 80.269%,22.2% 58.181%,23.35% 78.109%);
-    background-color: #8e0732;
+    background-color: rgba(27, 26, 27, 0.55)
 }
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(5) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(5) .shard {
     -webkit-clip-path: polygon(13.4% 80.2%,22.2% 58.881%,12.65% 75.609%);
-    background-color: #970741;
+    background-color: rgba(27, 26, 27, 0.65)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(6) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(6) .shard {
     -webkit-clip-path: polygon(21.75% 58.752%,27.75% 30.609%,23.35% 78.181%);
-    background-color: #F6075A;
+    background-color: rgba(27, 26, 27, 0.85)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(7) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(7) .shard {
     -webkit-clip-path: polygon(27.65% 30.609%,28.35% 73.181%,23.35% 78.181%);
-    background-color: #C80741
+    background-color: rgba(27, 26, 27, 0.45)
+
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(8) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(8) .shard {
     -webkit-clip-path: polygon(31.45% 42.181%,39.75% 72.038%,32.85% 83.467%);
-    background-color: #C80741
+    background-color: rgba(27, 26, 27, 0.45)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(9) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(9) .shard {
     -webkit-clip-path: polygon(31.35% 42.4%,45.65% 36.181%,45.65% 45.895%);
-    background-color: #F6075A
+    background-color: rgba(27, 26, 27, 0.85)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(10) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(10) .shard {
     -webkit-clip-path: polygon(31.5% 42.4%,39.2% 44.181%,34.1% 52.181%);
-    background-color: #970741
+    background-color: rgba(27, 26, 27, 0.65)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(11) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(11) .shard {
     -webkit-clip-path: polygon(34.2% 52.324%,45.55% 55.467%,36.3% 60.181%);
-    background-color: #c80741
+    background-color: rgba(27, 26, 27, 0.45)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(12) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(12) .shard {
     -webkit-clip-path: polygon(32.85% 83.324%,39.65% 72.038%,47.35% 73.181%);
-    background-color: #8e0732
+    background-color: rgba(27, 26, 27, 0.55)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(13) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(13) .shard {
     -webkit-clip-path: polygon(50.35% 14.609%,56.05% 24.181%,49.75% 79.181%);
-    background-color: #c80741
+    background-color: rgba(27, 26, 27, 0.45)
 }
 
 
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(14) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(15) .shard {
     -webkit-clip-path: polygon(49.65% 79.1%,63.85% 75.3%,68.85% 84.467%);
-    background-color: #c80741
+    background-color: rgba(27, 26, 27, 0.45)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(15) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(16) .shard {
     -webkit-clip-path: polygon(50.85% 68.895%,57.45% 77.181%,49.75% 79.181%);
-    background-color: #8e0732
+    background-color: rgba(27, 26, 27, 0.55)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(17) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(18) .shard {
     -webkit-clip-path: polygon(74.45% 23.839%,67% 39.839%,65.8% 77%);
-    background-color:#d92451;
+    background-color: rgba(27, 26, 27, 0.35)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(18) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(19) .shard {
     -webkit-clip-path: polygon(54.55% 40.982%,74.55% 23.696%,66.95% 40.982%);
-    background-color: #c80741;
+    background-color: rgba(27, 26, 27, 0.45)
 }
     
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(19) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(21) .shard {
     -webkit-clip-path: polygon(64.5% 57.982%,65.96% 62%,66.65% 50.282%);
-    background-color: #F6075A;
+    background-color: rgba(27, 26, 27, 0.85)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(20) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(23) .shard {
     -webkit-clip-path: polygon(68.7% 59.9%,71.05% 45.268%,78.25% 38.696%);
-    background-color: #971640;
+    background-color:  rgba(27, 26, 27, 0.65)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(21) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(22) .shard {
     -webkit-clip-path: polygon(65.8% 77%,77.25% 76.696%,66.85% 70.268%);
-    background-color: #8e0732;
+    background-color:  rgba(27, 26, 27, 0.55)
 }
 
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(22) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(24) .shard {
     -webkit-clip-path: polygon(76.55% 33.268%,91.95% 28.982%,92.55% 37.696%);
-    background-color: #F6075A
+    background-color:  rgba(27, 26, 27, 0.85)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(23) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(25) .shard {
     -webkit-clip-path: polygon(77.55% 33.3%,92.55% 37.8%,88.95% 33.839%);
-    background-color: #8e0732
+    background-color:  rgba(27, 26, 27, 0.55)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(24) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(26) .shard {
     -webkit-clip-path: polygon(77.45% 33.268%,83.45% 50.268%,78.25% 58.125%);
-    background-color: #c80741
+    background-color:  rgba(27, 26, 27, 0.45)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(25) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(27) .shard {
     -webkit-clip-path: polygon(83.35% 50.268%,92.65% 51.696%,78.35% 57.982%);
-    background-color: #c80741
+    background-color:  rgba(27, 26, 27, 0.45)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(26) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(28) .shard {
     -webkit-clip-path: polygon(86.6% 54.3%,92.5% 51.65%,95% 71.696%);
-    background-color: #970741
+    background-color:  rgba(27, 26, 27, 0.65)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(27) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(29) .shard {
     -webkit-clip-path: polygon(78.25% 58.325%,81.85% 71.125%,85.55% 78.554%);
-    background-color: #c80741;
+    background-color:  rgba(27, 26, 27, 0.45)
 }
 
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(28) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(30) .shard {
     -webkit-clip-path: polygon(78.35% 58.125%,81.35% 56.554%,85.55% 78.125%);
-    background-color: #F6075A;
+    background-color:  rgba(27, 26, 27, 0.85)
 }
 body.preloader.thirty-pieces-titles .level-one .level-two .shard-wrap:nth-child(29) .shard,body.preloader.thirty-pieces-titles.performance-boost .level-one .level-two .shard-wrap:nth-child(14) .shard {
     -webkit-clip-path: polygon(92.65% 50.839%,92.65% 37.7%,88.95% 36.181%);
-    background-color: #8e0732;
+    background-color: rgba(27, 26, 27, 0.55)
 }
 
 body.preloader.titles-out .intro-sequence {
